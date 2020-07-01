@@ -1,3 +1,4 @@
-# Donantes2
+# DonantesWebJava
+
 
 App en desarrollo. Gestion de donantes.
